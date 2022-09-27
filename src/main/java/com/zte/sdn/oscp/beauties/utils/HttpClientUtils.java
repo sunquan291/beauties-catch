@@ -1,4 +1,4 @@
-package com.zte.sdn.oscp.beauties;
+package com.zte.sdn.oscp.beauties.utils;
 
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
